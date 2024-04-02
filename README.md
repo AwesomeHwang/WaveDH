@@ -4,15 +4,12 @@
 
 ## Citation
 If you find this work useful in your research, please consider citing:
-```bibtex
-@article{hwang2023making,
-  title={Making depthwise convolution SR-friendly via kernel attention injection},
-  author={Hwang, Seongmin and Han, Daeyoung and Jeon, Moongu},
-  journal={Journal of Visual Communication and Image Representation},
-  volume={96},
-  pages={103930},
-  year={2023},
-  publisher={Elsevier},
-  doi={https://doi.org/10.1016/j.jvcir.2023.103930}
+
+```
+@article{hwang2024wavedh,
+  title={VmambaIR: Visual State Space Model for Image Restoration},
+  author={Shi, Yuan and Xia, Bin and Jin, Xiaoyu and Wang, Xing and Zhao, Tianyu and Xia, Xin and Xiao, Xuefeng and Yang, Wenming},
+  journal={arXiv preprint arXiv:2403.11423},
+  year={2024}
 }
 ```

@@ -2,7 +2,7 @@
 
 ### The code will be released soon.
 
-### Installation
+## Installation
 ```
 conda create -n WaveDH python=3.10  # create a virtual env
 conda activate WaveDH               # activate the env

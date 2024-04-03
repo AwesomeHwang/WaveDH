@@ -21,3 +21,12 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 
 ## Citation
 If you find this work useful in your research, please consider citing:
+
+```
+@article{hwang2024wavedh,
+  title={WaveDH: Wavelet Sub-bands Guided ConvNet for Efficient Image Dehazing},
+  author={Seongmin Hwang and Daeyoung Han and Cheolkon Jung and Moongu Jeon}, 
+  journal={arXiv preprint arXiv:2404.01604},
+  year={2024}
+}
+```

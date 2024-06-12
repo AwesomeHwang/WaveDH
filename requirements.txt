@@ -1,0 +1,4 @@
+opencv-python
+pytorch-msssim
+einops
+PyWavelets

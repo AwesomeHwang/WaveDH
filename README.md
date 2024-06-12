@@ -1,7 +1,8 @@
 # WaveDH
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2404.01604)
 
-### The code will be released soon.
+## Network Architecture
+<img src = "./figs/architecture.png"> 
 
 ## Installation
 ```

@@ -13,7 +13,7 @@ pip install -r requirements.txt     # Install other needed packages
 ```
 
 ## Datasets Preparation
-RESIDE official website [here](https://sites.google.com/view/reside-dehaze-datasets/reside-v0). We use the same data structure as [dehazeformer](https://github.com/IDKiro/DehazeFormer). Please refer to [dehazeformer](https://github.com/IDKiro/DehazeFormer) to prepare datasets.
+RESIDE official website [here](https://sites.google.com/view/reside-dehaze-datasets/reside-v0). We use the same data structure as [Dehazeformer](https://github.com/IDKiro/DehazeFormer). Please refer to thir repository to prepare datasets.
 
 Finally, you should get the following dataset structure:
 ```

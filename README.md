@@ -18,18 +18,23 @@ RESIDE official website [here](https://sites.google.com/view/reside-dehaze-datas
 
 Finally, you should get the following dataset structure:
 ```
-|-- data
-    |-- SOTS
-        |-- indoor
-            |-- hazy
-                |-- *.png
-            |-- gt
-                |-- *.png
-        |-- outdoor
-            |-- hazy
-                |-- *.jpg
-            |-- gt
-                |-- *.png
+── data
+    ├─ RESIDE-IN
+    │   ├─ train
+    │   │   ├─ GT
+    │   │   │   └─ ... (image filename)
+    │   │   └─ hazy
+    │   │       └─ ... (corresponds to the former)
+    │   └─ test
+    │       └─ ...
+    └─ RESIDE-Out
+        ├─ train
+        │   ├─ GT
+        │   │   └─ ... (image filename)
+        │   └─ hazy
+        │       └─ ... (corresponds to the former)
+        └─ test
+            └─ ...
 ```
 
 ## Performance

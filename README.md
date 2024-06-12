@@ -24,9 +24,9 @@ pip install -r requirements.txt     # Install other needed packages
 
 ## TODO list
 - [x] Add instructions
-- [x] Add Test Code
+- [x] Add test Code
 - [x] Add checkpoint files
-- [ ] Add Training Code
+- [ ] Add training Code
 
 ## Citation
 If you find this work useful in your research, please consider citing:

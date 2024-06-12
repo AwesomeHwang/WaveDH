@@ -62,3 +62,6 @@ If you find this work useful in your research, please consider citing:
   year={2024}
 }
 ```
+
+### Acknowledgement
+Thanks to Yuda Song et al for releasing their official implementation of the Dehazeformer[(https://ieeexplore.ieee.org/document/10076399/)] paper. Our code is heavily borrowed from the implementation of [Dehazeformer](https://github.com/IDKiro/DehazeFormer).

@@ -12,7 +12,7 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 pip install -r requirements.txt     # Install other needed packages
 ```
 
-### Datasets Preparation
+## Datasets Preparation
 
 RESIDE official website [here](https://sites.google.com/view/reside-dehaze-datasets/reside-v0).
 

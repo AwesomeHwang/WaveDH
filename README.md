@@ -44,10 +44,10 @@ Run the following script to test the trained model:
 python test.py --data_dir (path to dataset)--dataset (dataset name) --exp (exp name)
 ```
 
-For example, we test the DehazeFormer-B on the SOTS indoor set:
+For example, we test the WaveDH on the SOTS indoor set:
 
 ```sh
-python test.py -data_dir ./data --dataset RESIDE-IN --exp indoor
+python test.py --data_dir ./data --dataset RESIDE-IN --exp indoor
 ```
 
 ## Performance

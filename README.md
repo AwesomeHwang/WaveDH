@@ -47,7 +47,7 @@ python test.py --data_dir (path to dataset)--dataset (dataset name) --exp (exp n
 For example, we test the DehazeFormer-B on the SOTS indoor set:
 
 ```sh
-python test.py -data_dir ./path/to/dataset --dataset RESIDE-IN --exp indoor
+python test.py -data_dir ./data --dataset RESIDE-IN --exp indoor
 ```
 
 ## Performance

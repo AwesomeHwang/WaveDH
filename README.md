@@ -22,6 +22,12 @@ pip install -r requirements.txt     # Install other needed packages
   | WaveDH        | 39.35/0.995  | 34.89/0.984 |
   | WaveDH-Tiny   | 36.93/0.992  | 34.52/0.983 |
 
+## TODO list
+- [x] Add instructions
+- [x] Add Test Code
+- [x] Add checkpoint files
+- [ ] Add Training Code
+
 ## Citation
 If you find this work useful in your research, please consider citing:
 

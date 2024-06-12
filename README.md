@@ -27,7 +27,7 @@ Finally, you should get the following dataset structure:
     │   │       └─ ... (corresponds to the former)
     │   └─ test
     │       └─ ...
-    └─ RESIDE-Out
+    └─ RESIDE-OUT
         ├─ train
         │   ├─ GT
         │   │   └─ ... (image filename)

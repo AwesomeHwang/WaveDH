@@ -41,13 +41,13 @@ Finally, you should get the following dataset structure:
 Run the following script to test the trained model:
 
 ```sh
-python test.py --model (model name) --dataset (dataset name) --exp (exp name)
+python test.py --data_dir (path to dataset)--dataset (dataset name) --exp (exp name)
 ```
 
 For example, we test the DehazeFormer-B on the SOTS indoor set:
 
 ```sh
-python test.py --model dehazeformer-b --dataset RESIDE-IN --exp indoor
+python test.py -data_dir ./path/to/dataset --dataset RESIDE-IN --exp indoor
 ```
 
 ## Performance

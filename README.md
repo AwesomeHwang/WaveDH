@@ -12,6 +12,25 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 pip install -r requirements.txt     # Install other needed packages
 ```
 
+### Datasets Preparation
+
+RESIDE official website [here](https://sites.google.com/view/reside-dehaze-datasets/reside-v0).
+
+Finally, you should get the following dataset structure:
+```
+|-- data
+    |-- SOTS
+        |-- indoor
+            |-- hazy
+                |-- *.png
+            |-- gt
+                |-- *.png
+        |-- outdoor
+            |-- hazy
+                |-- *.jpg
+            |-- gt
+                |-- *.png
+```
 
 ## Performance
   - The benchmark results of our models can be downloaded from [WaveDH](https://gisto365-my.sharepoint.com/:f:/g/personal/sm_hwang_gm_gist_ac_kr/EqjCvWt-Sg5KhhTcxCPHLj8BXrj7piY13YUN3NJIw5MmEg?e=Ed2VhZ) and [WaveDH-tiny](https://gisto365-my.sharepoint.com/:f:/g/personal/sm_hwang_gm_gist_ac_kr/EvcqhOPBG4lHgXDTKWk2nXsBS_rixBAhkY_74mwU1C0VEg?e=R9pFUc).
